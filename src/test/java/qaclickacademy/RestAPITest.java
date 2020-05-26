@@ -6,6 +6,7 @@ public class RestAPITest {
 	@Test
 	public void postJira() {
 		System.out.println("postJira");
+		System.out.println("update4 made by person 2");
 		
 	}
 	@Test
