@@ -8,6 +8,10 @@ public class seleniumTest {
 		public void BrowserAutomation() {
 			System.out.println("BrowserAutomation");
 			
+			System.out.println("update3 made by person 1");
+			System.out.println("update3 made by person 1");
+			System.out.println("update3 made by person 1");
+			
 		}
 		@Test
 	public void elementsUi() {

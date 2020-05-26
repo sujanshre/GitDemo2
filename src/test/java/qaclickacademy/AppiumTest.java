@@ -11,6 +11,10 @@ public class AppiumTest {
 			System.out.println("update2 made by person 2");
 			System.out.println("update3 made by person 2");
 			
+			System.out.println("update3 made by person 1");
+			System.out.println("update3 made by person 1");
+			System.out.println("update3 made by person 1");
+			
 		}
 		@Test
 	public void IOSapps() {
