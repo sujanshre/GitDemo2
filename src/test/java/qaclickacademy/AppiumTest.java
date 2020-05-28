@@ -25,6 +25,11 @@ public class AppiumTest {
 @Test
 public void IOSappere() {
 System.out.println("IOSapps");
+}
+
+@Test
+public void Americanteamadded() {
+System.out.println("IOSapps");
 	
 }
 }
