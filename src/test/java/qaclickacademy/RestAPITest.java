@@ -15,6 +15,17 @@ public void deleteTwitter() {
 		
 	}
 	
+	@Test
+	public void deleteTwitter34() {
+		System.out.println("deleteTwitter");
+			
+		}
+	@Test
+	public void deleteTwitterw3() {
+		System.out.println("deleteTwitter");
+			
+		}
+	
 	
 
 }
